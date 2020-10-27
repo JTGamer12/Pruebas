@@ -1,4 +1,0 @@
-<Version: 1.01>
-/data/Map001.json https://raw.githubusercontent.com/JTGamer12/Pruebas/main/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/JTGamer12/Pruebas/main/Map002.json
-<End Of Version>
